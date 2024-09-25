@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://mostbet.surfingcrazywaves.xyz/sitemap.xml
+Host: mostbet.surfingcrazywaves.xyz
