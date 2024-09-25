@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://mostbet.surfingcrazywaves.xyz/sitemap.xml
-Host: mostbet.surfingcrazywaves.xyz
+Sitemap: http://pin-up.surfingcrazywaves.xyz/sitemap.xml
+Host: pin-up.surfingcrazywaves.xyz
